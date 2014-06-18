@@ -22,5 +22,5 @@ Package.on_use(function (api, where) {
   api.add_files('shared/SinglePageLogin.js', ['client', 'server']);
 
   api.use('iron-router', ['client']);
-  api.use('bootstrap-3', ['client']);
+  api.use('bootstrap-3-sass’, ['client']);
 });
