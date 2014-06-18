@@ -30,7 +30,7 @@ SinglePageLogin = {
     // });
     Router.map(function() {
       this.route('singlePageLogin', {
-        path: '/login'
+        path: '/admin-concept'
       });
       this.route('singlePageSignUp', {
         path: '/signup',
